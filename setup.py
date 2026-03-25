@@ -1,13 +1,2 @@
-from setuptools import setup, find_packages
-setup(
-    name="impact-ai-labour-market-latin-america-2020-2025",
-    version="1.0.0",
-    description="Impact of Artificial Intelligence on the Labour Market in Latin America (2020-2025)",
-    author="de la Serna, Juan Moisés",
-    url="https://github.com/juanmoisesd/impact-ai-labour-market-latin-america-2020-2025",
-    packages=find_packages(),
-    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
-    python_requires=">=3.7",
-    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
-    keywords="zenodo, open-data",
-)
+from setuptools import setup,find_packages
+setup(name="impact-ai-labour-market-latin-america-2020-2025",version="1.0.0",description="Impact of Artificial Intelligence on the Labour Market in Latin America (2020-2025)",author="de la Serna, Juan Moisés",url="https://github.com/juanmoisesd/impact-ai-labour-market-latin-america-2020-2025",packages=find_packages(),install_requires=["pandas>=1.3.0","requests>=2.26.0"],python_requires=">=3.7",classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],keywords="zenodo, open-data, dataset")
