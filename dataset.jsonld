@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Impact of Artificial Intelligence on the Labour Market in Latin America (2020-2025)",
+  "description": "Dataset on the impact of artificial intelligence on the labour market in Latin America (2020-2025)",
+  "url": "https://doi.org/10.5281/zenodo.19211739",
+  "identifier": "https://doi.org/10.5281/zenodo.19211739",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "name": "de la Serna, Juan Moisés",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  },
+  "keywords": "artificial intelligence, labour market, automation, Latin America, employment, digital transformation",
+  "datePublished": "2025",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "spatialCoverage": "Latin America",
+  "temporalCoverage": "2020/2025",
+  "inLanguage": "en",
+  "isAccessibleForFree": true
+}
